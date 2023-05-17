@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! If you have some questions or want to contact me, feel free to drop me an e-mail (YANAN002@e.ntu.edu.sg).
+Welcome to my personal website! If you have some questions or want to contact me, please feel free to drop me an e-mail (YANAN002@e.ntu.edu.sg).
 
 About Me
 ======
