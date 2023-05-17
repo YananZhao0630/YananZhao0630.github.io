@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! You can find many details about me, such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail(YANAN002@e.ntu.edu.sg).
+Welcome to my personal website! You can find many details about me, such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail (YANAN002@e.ntu.edu.sg).
 
 About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+I received the B.E. degree in communication engineering and the M.E. degree in information and communication engineering from the Harbin Institute of Technology, China, in 2018 and 2020, respectively. After graduation, I have been a remote research assistant conducted by [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html) on interpretable deep learning with strong interests and foundation in mathematics. My current research interests include signal and image processing, interpretable machine learning and applications. Currently, I am pusuring PhD degree at Nanyang Technology University, supervised by [Prof. Tay Wee Peng](https://www3.ntu.edu.sg/home/wptay/TayWeePeng.html) on the signal processing and machine learning. I feel very lucky that I have many opportunities to explore my interested areas.
 
 Getting started
 ======
