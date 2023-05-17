@@ -13,7 +13,6 @@ Education
 ======
 * B.E. in Communication Engineering, Habrin Intitute of Technology, Weihai, 2014-2018
 * M.E. in Information and Communication Engineering, Harbin Intitute of Technology, 2018-2020
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work Experience
 ======
@@ -29,20 +28,26 @@ Work Experience
   * Penn State University, USA
   * Supervisor: [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html)
 
+Publications
+======
+<ul>{% for post in site. Publications %}
+{% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Teaching
+======
+<ul>{% for post in site.teaching %}
+{% include archive-single-cv.html %}
+{% endfor %}</ul>
+  
+Service and Leadership
+======
+* IEEE Graduate Membership
+* IEEE Signal Processing Society (SPS) Membership
+
 Skills
 ======
 * Programming Skills: C/C++, Python/Pytorch, Matlab, Verilog, Latex
 * Mathematical Skills: Matrix Analysis, Linear Algebra, Calculus, Convex Optimization
 * Language Skills: Chinese (Home Language), English (Proficient: IELTS 7, GRE 332+4)
 * Sport Skills: Swimming, Badmintion, Table Tennis
-
-#Teaching
-#======
-#  <ul>{% for post in site.teaching %}
-#    {% include archive-single-cv.html %}
-#  {% endfor %}</ul>
-  
-Service and Leadership
-======
-* IEEE Graduate Membership
-* IEEE Signal Processing Society (SPS) Membership
