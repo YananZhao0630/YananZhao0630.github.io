@@ -4,4 +4,4 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* **Z. LI**, T. Li, J. Wang, M. Q.-H. Meng, Learning Robot Exploration Strategy with 4D Point-Clouds-like Information as Observations, IEEE Robotics and Automation Letters, accepted.
+* **Y. Zhao**, Y. Li, H. Zhang, V. Monga, Y. Eldar, `` Deep, convergent, unrolled non-blind image deconvolution,'' IEEE Transactions on Computational Imaging, Under review.
