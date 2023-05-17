@@ -15,7 +15,7 @@ Education
 * M.E. in Information and Communication Engineering, Harbin Intitute of Technology, 2018-2020
 #* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
-Work experience
+Work Experience
 ======
 * Sep. 2016 -- Aug. 2017: Lab Manager
   * Robot Lab of School of Information Science and Engineering, Harbin Institute of Technology
@@ -36,13 +36,13 @@ Skills
 * Language Skills: Chinese (Home Language), English (Proficient: IELTS 7, GRE 332+4)
 * Sport Skills: Swimming, Badmintion, Table Tennis
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
 * IEEE Graduate Membership
 * IEEE Signal Processing Society (SPS) Membership
