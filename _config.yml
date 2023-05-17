@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ZHAO, YANAN/ Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "ZHAO, YANAN"
 description              : &description "personal description"
