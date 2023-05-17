@@ -14,14 +14,13 @@ About Me
 ======
 I received the B.E. degree in communication engineering and the M.E. degree in information and communication engineering from the Harbin Institute of Technology, China, in 2018 and 2020, respectively. After graduation, I have been a remote research assistant conducted by [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html) on interpretable deep learning with strong interests and foundation in mathematics. My current research interests include signal and image processing, interpretable machine learning and applications. Currently, I am pusuring PhD degree at Nanyang Technology University, supervised by [Prof. Tay Wee Peng](https://www3.ntu.edu.sg/home/wptay/TayWeePeng.html) on the signal processing and machine learning. I feel very lucky that I have many opportunities to explore my interested areas.
 
-Getting started
+Recent updates
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* January 2023: I receive the PhD research scholarship from Nanyang Techology Univeristy, and start my PhD journey at Singapora!
+* March 2022: I receive the PhD offer from McGill University with Three Year MEDA Fellowship！(However, my study permit is stuck in security check.)
+* June 2021: I am sad to hear from the newly issued Proclamation 10043, which prohibits students in HIT and other many universities to obtain a valid F visa!
+* July 2020: My master dissertation is ranked as the Excellent Graduation Thesis!
+* March 2020: I am lucky to receive the Ph.D Fellowship offers from Penn State University, Purdue and TAMU! Looking forward to the life in Penn State!
 
 Site-wide configuration
 ------
