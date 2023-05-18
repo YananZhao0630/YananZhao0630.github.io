@@ -18,6 +18,6 @@ parametrization scheme.
 * Deep Scatterng Network with Fractional Wavelet Transform [[pdf]](https://ieeexplore.ieee.org/document/9495232) (09.2018 -- 09.2020), supervised by Prof. Jun Shi, [Prof. Wei Xiang (La Trobe University, Australia)](https://scholars.latrobe.edu.au/wxiang) and [Prof. Vishal Monga (Penn State University, USA)](http://signal.ee.psu.edu/faculty.html).
   * A central task in machine learning is feature extraction and feature representation is required to be invariant, stable, and informative. To meet these basic requirements, [Prof. Stephane Mallat (IEEE Fellow)](https://www.di.ens.fr/~mallat/mallat.html) proposed [deep scattering networks (DSNs)](https://ieeexplore.ieee.org/document/6522407) by cascading wavelet filters and modulus nonlinearities in each network layer. However, DSNs work well for stationary signals but not for non-stationary ones. 
 	
-<img src='images/image120.gif' style="width:100%; height:100%; max-width:100%">
+<center><img src='/images/image120.gif' width="98%" height="98%"/></center>
 
 
