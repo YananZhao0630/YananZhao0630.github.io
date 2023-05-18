@@ -16,17 +16,19 @@ Education
 
 Work Experience
 ======
-* Sep. 2016 -- Aug. 2017: Lab Manager
-  * Robot Lab of School of Information Science and Engineering, Harbin Institute of Technology
-  * Duties included: Team Leader for Robot Competition
+
+* Sep. 2020 -- Aug. 2022: Research Assistant
+  * Penn State University, USA
+  * Supervisor: [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html)
 
 * Sep. 2018 -- June. 2020: Research Assistant
   * Harbin Institute of Technology
   * Supervisor: Prof. Jun Shi
 
-* Sep. 2020 -- Aug. 2022: Research Assistant
-  * Penn State University, USA
-  * Supervisor: [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html)
+* Sep. 2016 -- Aug. 2017: Lab Manager
+  * Robot Lab of School of Information Science and Engineering, Harbin Institute of Technology
+  * Duties included: Team Leader for Robot Competition
+
 
 Publications
 ======
