@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.E. in Communication Engineering, Habrin Intitute of Technology, Weihai, 2014-2018
+* B.E. in Communication Engineering, Habrin Intitute of Technology, 2014-2018
 * M.E. in Information and Communication Engineering, Harbin Intitute of Technology, 2018-2020
 
 Work Experience
