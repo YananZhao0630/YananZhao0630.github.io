@@ -21,13 +21,13 @@ parametrization scheme.
 	    <tr>
 	        <td><center><img src='/images/image120.gif' width=250 height =250/>2-D Gabor atom </center></td>
 	        <td><center><img src='/images/image41.gif' width=220 height =220/>Fourier transform </center></td>
-	        <td><center><img src='/images/image42.gif' width=200 height =200/>Its scattering transform</center></td>
+	        <td><center><img src='/images/image42.gif' width=190 height =190/>Scattering transform</center></td>
 	    </tr>
 
                      <tr>
   	        <td><center><img src='/images/image43.gif' width=250 height =250/>2-D Chirp atom</center></td>
 	        <td><center><img src='/images/image44.gif' width=220 height =220/>Fourier transform </center></td>
-	        <td><center><img src='/images/image45.gif' width=200 height =200/>Scattering transform</center></td>
+	        <td><center><img src='/images/image45.gif' width=190 height =190/>Scattering transform</center></td>
 	    </tr>
 	</table>
   * To overcome this drawback, we propose fractional scattering convolution network (FrScatNet) by using fractional wavelet transform (FRWT). Currently, FrScatNet has been applied into image classification with non-stationary textures. 
