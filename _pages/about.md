@@ -12,7 +12,7 @@ Welcome to my personal website! If you have some questions or want to contact me
 
 About Me
 ======
-I received the B.E. degree in communication engineering and the M.E. degree in information and communication engineering from the Harbin Institute of Technology (HIT), China, in 2018 and 2020, respectively. After graduation, I have been a remote research assistant supervised by [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html) on interpretable deep learning with strong interests and foundation in mathematics. My current research interests include signal and image processing, interpretable machine learning and applications. 
+I received the B.E. degree in communication engineering and the M.E. degree in information and communication engineering from the Harbin Institute of Technology (HIT), China, in 2018 and 2020, respectively. After graduation, I have been a remote research assistant supervised by [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html) (collaborating with [Prof. Yonina C Eldar (IEEE Fellow, Weizmann Institute of Science, Israel)](https://www.weizmann.ac.il/math/yonina/))on interpretable deep learning with strong interests and foundation in mathematics. My current research interests include signal and image processing, interpretable machine learning and applications. 
 
 Currently, I am pusuring PhD degree at Nanyang Technology University, supervised by [Prof. Tay Wee Peng](https://www3.ntu.edu.sg/home/wptay/TayWeePeng.html) on the signal processing and machine learning. I feel very lucky that I have many opportunities to explore my interested areas.
 
