@@ -30,5 +30,5 @@ parametrization scheme.
 	        <td><center><img src='/images/image45.gif' width=200 height =200/>Scattering transform</center></td>
 	    </tr>
 	</table>
-  * To overcome this drawback, we propose fractional scattering convolution network (FrScatNet) by using fractional wavelet transform (FRWT). Currently, FrScatNet has been applied into image classification with non-stationary textures. 
+  * To overcome this drawback, we propose fractional scattering convolution network (FrScatNet) by using fractional wavelet transform (FRWT). Currently, FrScatNet has been applied into image classification with non-stationary textures. Besides, its extended structure (stockwell scattering network) has been applied in the area of image change detection [[pdf]](https://ieeexplore.ieee.org/document/10016644).
 	<center><img src='/images/P3.png' width="98%" height="98%"/></center>
