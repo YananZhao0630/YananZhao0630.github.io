@@ -30,3 +30,5 @@ parametrization scheme.
 	        <td><center><img src='/images/image45.gif' width=200>(Scattering transform of 2-D Chirp atom) </center></td>
 	    </tr>
 	</table>
+  * To overcome this drawback, we propose fractional scattering convolution network (FrScatNet) by using fractional wavelet transform (FRWT). Currently, FrScatNet has been applied into image classification with non-stationary textures. 
+	<center><img src='/images/P3.png' width="98%" height="98%"/></center>
