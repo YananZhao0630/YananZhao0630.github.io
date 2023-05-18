@@ -19,13 +19,13 @@ parametrization scheme.
   * A central task in machine learning is feature extraction and feature representation is required to be invariant, stable, and informative. To meet these basic requirements, [Prof. Stephane Mallat (IEEE Fellow)](https://www.di.ens.fr/~mallat/mallat.html) proposed [deep scattering networks (DSNs)](https://ieeexplore.ieee.org/document/6522407) by cascading wavelet filters and modulus nonlinearities in each network layer. However, DSNs work well for stationary signals but not for non-stationary ones. 
 	<table>
 	    <tr>
-	        <td><center><img src='/images/image120.gif' width=400 height =400/>((a) 2-D Gabor atom) </center></td>
-	        <td><center><img src='/images/image41.gif' width=200 height =200/>(Fourier transform of (a)) </center></td>
-	        <td><center><img src='/images/image42.gif' width=200 height =200/>(Scattering transform of (a)) </center></td>
+	        <td><center><img src='/images/image120.gif' width=200 height =200/>(2-D Gabor atom) </center></td>
+	        <td><center><img src='/images/image41.gif' width=200 height =200/>(Fourier transform) </center></td>
+	        <td><center><img src='/images/image42.gif' width=200 height =200/>(Its scattering transform) </center></td>
 	    </tr>
 
                      <tr>
-  	        <td><center><img src='/images/image43.gif' width=400 height =400/>(2-D Chirp atom) </center></td>
+  	        <td><center><img src='/images/image43.gif' width=200 height =200/>(2-D Chirp atom) </center></td>
 	        <td><center><img src='/images/image44.gif' width=200 height =200/>(Fourier transform) </center></td>
 	        <td><center><img src='/images/image45.gif' width=200 height =200/>(Scattering transform) </center></td>
 	    </tr>
