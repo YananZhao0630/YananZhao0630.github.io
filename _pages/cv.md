@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.E. in Communication Engineering, Habrin Intitute of Technology, 2014-2018
-* M.E. in Information and Communication Engineering, Harbin Intitute of Technology, 2018-2020
+* B.E. in Communication Engineering, Habrin Intitute of Technology, 2014-2018 (honored)
+  * GPA: 92/100                                     Ranking:  1 / 88
+* M.E. in Information and Communication Engineering, Harbin Intitute of Technology, 2018-2020(honored)
+  * GPA: 89.12/100                                Ranking: Excellent Master Thesis (top 3)
 
 Work Experience
 ======
