@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Zhao, Yanan"
-  avatar           : "Photo.png"
+  avatar           : "photo_yanan.jpg"
   bio              : "Frist-year PhD student"
   location         : "Singapore"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=0WDIzwMAAAAJ"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Yanan-Zhao-37"
   uri              :
