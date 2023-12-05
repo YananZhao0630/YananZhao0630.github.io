@@ -18,7 +18,7 @@ Currently, I am pusuring PhD degree at Nanyang Technology University, supervised
 
 News
 =====
-* Nov. 2023: [Two papers](https://openreview.net/forum?id=us4qvNWeGB,https://openreview.net/forum?id=lSa6SEEqTL) on graph neural network via dynamic process have been accepted by NeuIPS workshop. 
+* Nov. 2023: Two papers [1](https://openreview.net/forum?id=us4qvNWeGB) [2](https://openreview.net/forum?id=lSa6SEEqTL) on graph neural network via dynamic process have been accepted by NeuIPS workshop. 
 * Oct. 2023: One ICIP paper [A convergent neural network for non-blind image deblurring](https://ieeexplore.ieee.org/abstract/document/10222656) is presented at ICIP, 2023.
 
 Experience updates
