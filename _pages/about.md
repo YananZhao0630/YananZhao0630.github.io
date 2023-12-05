@@ -18,7 +18,9 @@ Currently, I am pusuring PhD degree at Nanyang Technology University, supervised
 
 Experience updates
 ======
-* January 2023: I receive the PhD research scholarship from [Nanyang Techology Univeristy](https://www.ntu.edu.sg/), supervised by [Prof. Tay Wee Peng](https://www3.ntu.edu.sg/home/wptay/TayWeePeng.html), and start my PhD journey at Singapore!
+* Nov. 2023: [Two papers](https://openreview.net/forum?id=us4qvNWeGB) on graph neural network via dynamic process have been accepted by NeuIPS workshop. 
+* Oct. 2023: One ICIP paper [``A convergent neural network for non-blind image deblurring''](https://ieeexplore.ieee.org/abstract/document/10222656) is presented at ICIP, 2023.
+* Jan. 2023: I receive the PhD research scholarship from [Nanyang Techology Univeristy](https://www.ntu.edu.sg/), supervised by [Prof. Tay Wee Peng](https://www3.ntu.edu.sg/home/wptay/TayWeePeng.html), and start my PhD journey at Singapore!
 * March 2022: I receive the PhD offer from [McGill University](https://www.mcgill.ca/) with Three-Year MEDA Fellowship, supervised by [Prof. Mark Coates](http://www.ece.mcgill.ca/~mcoate/)！(However, my student visa is stuck into a long security check....)
 * June 2021: I am sad to hear from the newly issued Proclamation 10043, USA, which prohibits students in HIT and other many universities to obtain a valid F visa!
 * July 2020: My master dissertation is ranked as the Excellent Graduation Thesis!
