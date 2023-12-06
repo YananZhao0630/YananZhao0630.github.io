@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-* F. Ji, **Y. Zhao**,  S. H. Lee, K. Zhao, W. P. Tay, and J. Yang, Graph distributional signals for regularization in graph neural networks,_IEEE Transactions on Signal and Information Processing over Networks_, Under review.
+* F. Ji, **Y. Zhao**,  S. H. Lee, K. Zhao, W. P. Tay, and J. Yang, Graph distributional signals for regularization in graph neural networks, _IEEE Transactions on Signal and Information Processing over Networks_, Under review.
 * Q. Kang, **Y. Zhao**, K. Zhao, X. Li, Q. Ding, W. P. Tay, and S. Wang, Advancing graph neural networks through joint time-space dynamics, NeuPIS workshop, 2023. [[pdf]](https://openreview.net/forum?id=us4qvNWeGB)
 * Q. Kang, K. Zhao, Y. Song, Y. Xie, **Y. Zhao**, S. Wang, R. She, and W. P. Tay, Coupling graph neural networks with non-integer order dynamics: A robustness study, NeuPIS workshop, 2023. [[pdf]](https://openreview.net/forum?id=lSa6SEEqTL)
 * **Y. Zhao**, Y. Li, H. Zhang, V. Monga, and Y. Eldar, Deep, convergent, unrolled non-blind image deconvolution, _IEEE Transactions on Computational Imaging_, Major revision
