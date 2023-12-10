@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanan Zhao -- No cross, no crown"
+title: "Yanan Zhao -- Go Big or Go Home!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
