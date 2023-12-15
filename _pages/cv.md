@@ -57,6 +57,7 @@ Service and Leadership
 ======
 * IEEE Graduate Membership
 * IEEE Signal Processing Society (SPS) Membership
+* Reviewer: IEEE TSP
 
 Skills
 ======
