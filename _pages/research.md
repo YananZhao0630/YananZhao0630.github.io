@@ -19,9 +19,9 @@ parametrization scheme. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10
   * A central task in machine learning is feature extraction and feature representation is required to be invariant, stable, and informative. To meet these basic requirements, [Prof. Stephane Mallat (IEEE Fellow)](https://www.di.ens.fr/~mallat/mallat.html) proposed [deep scattering networks (DSNs)](https://ieeexplore.ieee.org/document/6522407) by cascading wavelet filters and modulus nonlinearities in each network layer. However, DSNs work well for stationary signals but not for non-stationary ones. 
 	<table>
 	    <tr>
-	        <td><center><img src='/images/image120.gif' width=250 height =250/>2-D Gabor atom </center></td>
-	        <td><center><img src='/images/image41.gif' width=250 height =250/>Fourier transform </center></td>
-	        <td><center><img src='/images/image42.gif' width=200 height =200/>Scattering transform</center></td>
+	        <td><center><img src='/images/image120.gif' width=250 height =250/> 2-D Gabor atom </center></td>
+	        <td><center><img src='/images/image41.gif' width=250 height =250/> Fourier transform </center></td>
+	        <td><center><img src='/images/image42.gif' width=250 height =250/> Scattering transform</center></td>
 	    </tr>
 
                      <tr>
