@@ -20,7 +20,7 @@ parametrization scheme. [[pdf]](https://ieeexplore.ieee.org/abstract/document/10
 	<table>
 	    <tr>
 	        <td><center><img src='/images/image120.gif' width=250 height =250/>2-D Gabor atom </center></td>
-	        <td><center><img src='/images/image41.gif' width=225 height =225/>Fourier transform </center></td>
+	        <td><center><img src='/images/image41.gif' width=250 height =250/>Fourier transform </center></td>
 	        <td><center><img src='/images/image42.gif' width=200 height =200/>Scattering transform</center></td>
 	    </tr>
 
