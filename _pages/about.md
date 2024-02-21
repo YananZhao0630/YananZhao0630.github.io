@@ -18,6 +18,7 @@ Currently, I am pusuring PhD degree at Nanyang Technology University, supervised
 
 News
 =====
+* Feb. 2024: One TCI paper is accepted with Minor Revision. 
 * Dec. 2023: One paper is accepted by AAAI 2024.
 * Nov. 2023: Two papers [[1]](https://openreview.net/forum?id=us4qvNWeGB) [[2]](https://openreview.net/forum?id=lSa6SEEqTL) on graph neural network via dynamic process have been accepted by NeuIPS workshop. 
 * Oct. 2023: One ICIP paper [A convergent neural network for non-blind image deblurring](https://ieeexplore.ieee.org/abstract/document/10222656) is presented at ICIP, 2023.
