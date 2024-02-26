@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! Life is about solving problems, and uneasy lies the head that wears a crown.
+Welcome to my personal website! Life is about solving problems, and heavy is the head who wears the crown.
 
 About Me
 ======
