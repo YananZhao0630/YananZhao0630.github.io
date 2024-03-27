@@ -23,6 +23,12 @@ News
 * Nov. 2023: Two papers [[1]](https://openreview.net/forum?id=us4qvNWeGB) [[2]](https://openreview.net/forum?id=lSa6SEEqTL) on graph neural network via dynamic process have been accepted by NeuIPS workshop. 
 * Oct. 2023: One ICIP paper [A convergent neural network for non-blind image deblurring](https://ieeexplore.ieee.org/abstract/document/10222656) is presented at ICIP, 2023.
 
+Current journal roles
+=====
+* Peer Reviewer: IEEE Transactions on Signal Processing (IEEE TSP), Transactions on Machine Learning Research (TMLR), IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
+
+
+
 Experience updates
 ======
 * Jan. 2023: I receive the PhD research scholarship from [Nanyang Techology Univeristy](https://www.ntu.edu.sg/), supervised by [Prof. Tay Wee Peng](https://www3.ntu.edu.sg/home/wptay/TayWeePeng.html), and start my PhD journey at Singapore!
