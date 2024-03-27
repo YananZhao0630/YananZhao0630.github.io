@@ -25,7 +25,10 @@ News
 
 Current journal roles
 =====
-* Peer Reviewer: IEEE Transactions on Signal Processing (IEEE TSP), Transactions on Machine Learning Research (TMLR), IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
+* Peer Reviewer: 
+   * IEEE Transactions on Signal Processing (IEEE TSP)
+   * Transactions on Machine Learning Research (TMLR)
+   * IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
 
 
 
