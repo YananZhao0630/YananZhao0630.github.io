@@ -29,6 +29,7 @@ Current journal roles
    * IEEE Transactions on Signal Processing (IEEE TSP)
    * Transactions on Machine Learning Research (TMLR)
    * IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
+   * International Journal of Machine Learning and Cybernetics (IJMLC)
 
 
 
