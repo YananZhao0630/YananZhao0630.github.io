@@ -31,6 +31,11 @@ Current journal roles
    * IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
    * International Journal of Machine Learning and Cybernetics (IJMLC)
 
+Current conference roles
+====
+* Peer Reviewer:
+  * Conference on Neural Information Processing Systems (NeurIPS)
+
 
 
 Experience updates
