@@ -18,6 +18,7 @@ Currently, I am pusuring PhD degree at Nanyang Technology University, supervised
 
 News
 =====
+* July  2024: One paper is accepetd by NeurIPS as spotlight. 
 * Feb. 2024: One paper is accepted by IEEE TCI [[pdf]](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10478818). 
 * Dec. 2023: One paper is accepted by AAAI 2024 [[pdf]](https://arxiv.org/abs/2401.04331).
 * Nov. 2023: Two papers [[1]](https://openreview.net/forum?id=us4qvNWeGB) [[2]](https://openreview.net/forum?id=lSa6SEEqTL) on graph neural network via dynamic process have been accepted by NeuIPS workshop. 
@@ -35,7 +36,9 @@ Current conference roles
 ====
 * Peer Reviewer:
   * Conference on Neural Information Processing Systems (NeurIPS)
-
+  * International Conference on Learning Representations (ICLR)
+  * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+  * International Conference on Artificial Intelligence and Statistics (AISTATS)
 
 
 Experience updates
