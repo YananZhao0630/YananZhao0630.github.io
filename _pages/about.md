@@ -18,6 +18,8 @@ Currently, I am pusuring PhD degree at Nanyang Technology University, supervised
 
 News
 =====
+* Jan. 2025: One paper is accepted by ICLR 2025.
+* Jan. 2025: One paper is accepted by TGRS. Make the **wavelet scattering network (WSN)** great again!
 * Dec. 2024: One paper is accepted by ICASSP 2025.
 * Dec. 2024: One paper is accepted by AAAI 2025.
 * July  2024: One paper is accepted by NeurIPS as spotlight. 
