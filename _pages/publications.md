@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-** Journal**
+**Journal**
 * **Y. Zhao**, Y. Li, H. Zhang, V. Monga, and Y. Eldar, Deep, convergent, unrolled half-quadratic splitting for image deconvolution, _IEEE Transactions on Computational Imaging_, vol. 10, pp. 574-588, 2024. [[pdf]](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10478818)
 * F. Ji<sup>1</sup>, **Y. Zhao**<sup>1</sup>(equal contribution),  S. H. Lee, K. Zhao, W. P. Tay, and J. Yang, Graph distributional signals for regularization in graph neural networks, _IEEE Transactions on Signal and Information Processing over Networks_, Major Revision.
 * G. Chen, **Y. Zhao**, and K. Mouthaan, Joint spatial-frequency scattering network for unsupervised SAR image change detection,_IEEE Geoscience and Remote Sensing Letters_, 2025.
