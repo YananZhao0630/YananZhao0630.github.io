@@ -10,11 +10,11 @@ location: "Singapora"
 
 This course offers an in-depth exploration into both the theoretical foundations and practical implementations of machine learning systems. Designed for students with a basic background in programming and statistics, the course equips learners with the skills needed to design, develop, and deploy effective machine learning solutions across various domains.
 
-Heading 1
+AI Resources and Programming
 ======
 
-Heading 2
+Long Short-Term Memory (LSTM)
 ======
 
-Heading 3
+Large Language Model (LLM)
 ======
