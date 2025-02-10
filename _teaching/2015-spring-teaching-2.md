@@ -1,9 +1,9 @@
 ---
 title: "IE4497 Pattern Recognition and Deep Learning"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Nanyang Technological University, Department"
+venue: "Nanyang Technological University, EEE"
 date: 2025-01-09
 location: "Singapora"
 ---
