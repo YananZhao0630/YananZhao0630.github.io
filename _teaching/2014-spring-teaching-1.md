@@ -8,7 +8,7 @@ date: 2024-01-09
 location: "Singapora"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course offers an in-depth exploration into both the theoretical foundations and practical implementations of machine learning systems. Designed for students with a basic background in programming and statistics, the course equips learners with the skills needed to design, develop, and deploy effective machine learning solutions across various domains.
 
 Heading 1
 ======
