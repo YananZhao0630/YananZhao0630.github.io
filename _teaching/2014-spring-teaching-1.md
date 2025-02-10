@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Nanyang Technological University, EEE"
-date: 2024-01-09
+date: 2025-01-09
 location: "Singapora"
 ---
 
