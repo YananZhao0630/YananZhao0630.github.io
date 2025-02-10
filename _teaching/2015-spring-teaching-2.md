@@ -1,20 +1,23 @@
 ---
-title: "Teaching experience 2"
+title: "IE4497 Pattern Recognition and Deep Learning"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Nanyang Technological University, Department"
+date: 2025-01-09
+location: "Singapora"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course delves into the core concepts and state-of-the-art techniques in pattern recognition and deep learning. It is designed to provide students with both the theoretical background and practical skills necessary to develop systems that automatically identify patterns and extract meaningful insights from complex data.
 
-Heading 1
+Probability basic
 ======
 
-Heading 2
+Neural Networks and Deep Learning
 ======
 
-Heading 3
+Recurrent Neural Networks
+======
+
+Generative Models
 ======
