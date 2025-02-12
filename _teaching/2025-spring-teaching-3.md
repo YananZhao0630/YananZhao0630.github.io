@@ -10,11 +10,14 @@ location: "Singapora"
 
 This course provides a comprehensive introduction to the analysis and processing of signals and the behavior of systems that act on these signals. It is designed to equip students with the fundamental tools and concepts necessary for understanding and designing a wide range of engineering systems, from communication networks to control systems.
 
-AI Resources and Programming
+Signal Representation and Analysis
 ======
 
-Long Short-Term Memory (LSTM)
+System Characteristics
 ======
 
-Large Language Model (LLM)
+Transform Techniques
+======
+
+Time and Frequency Domain Analysis
 ======
