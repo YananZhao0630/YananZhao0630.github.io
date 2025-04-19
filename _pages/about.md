@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! Life is about solving problems, and heavy is the head who wears the crown.
+Welcome to my personal website! Heavy is the head who wears the crown.
 
 About Me
 ======
