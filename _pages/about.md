@@ -23,10 +23,7 @@ News
 * Dec. 2024: One paper is accepted by ICASSP 2025.
 * Dec. 2024: One paper is accepted by AAAI 2025.
 * July  2024: One paper is accepted by NeurIPS as spotlight. 
-* Feb. 2024: One paper is accepted by IEEE TCI [[pdf]](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10478818). 
-* Dec. 2023: One paper is accepted by AAAI 2024 [[pdf]](https://arxiv.org/abs/2401.04331).
-* Nov. 2023: Two papers [[1]](https://openreview.net/forum?id=us4qvNWeGB) [[2]](https://openreview.net/forum?id=lSa6SEEqTL) on graph neural network via dynamic process have been accepted by NeurIPS workshop. 
-* Oct. 2023: One ICIP paper [A convergent neural network for non-blind image deblurring](https://ieeexplore.ieee.org/abstract/document/10222656) is presented at ICIP, 2023.
+
 
 Current journal roles
 =====
@@ -34,6 +31,7 @@ Current journal roles
    * IEEE Transactions on Signal Processing (IEEE TSP)
    * Transactions on Machine Learning Research (TMLR)
    * IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
+   * IEEE Internet of Things Journal (IEEE IoT)
 
 
 Current conference roles
@@ -45,11 +43,3 @@ Current conference roles
   * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   * International Conference on Artificial Intelligence and Statistics (AISTATS)
 
-
-Experience updates
-======
-* Jan. 2023: I receive the PhD research scholarship from [Nanyang Techology Univeristy](https://www.ntu.edu.sg/), supervised by [Prof. Tay Wee Peng](https://www3.ntu.edu.sg/home/wptay/TayWeePeng.html), and start my PhD journey at Singapore!
-* March 2022: I receive the PhD offer from [McGill University](https://www.mcgill.ca/) with Three-Year MEDA Fellowship, supervised by [Prof. Mark Coates](http://www.ece.mcgill.ca/~mcoate/)！(However, my student visa is stuck into a long security check....)
-* June 2021: I am sad to hear from the newly issued Proclamation 10043, USA, which prohibits students in HIT and other many universities to obtain a valid F visa!
-* July 2020: My master dissertation is ranked as the Excellent Graduation Thesis!
-* March 2020: I am lucky to receive the Ph.D Fellowship offers from [Penn State University, USA](https://www.psu.edu/), supervised by [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html)! Looking forward to the life in Penn State!
