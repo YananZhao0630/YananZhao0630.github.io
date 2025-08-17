@@ -34,6 +34,7 @@ Current journal roles
    * Transactions on Machine Learning Research (TMLR)
    * IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
    * IEEE Internet of Things Journal (IEEE IoT)
+   * Signal Processing (Elsevier)
 
 
 Current conference roles
@@ -44,4 +45,5 @@ Current conference roles
   * International Conference on Machine Learning (ICML)
   * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
   * International Conference on Artificial Intelligence and Statistics (AISTATS)
-
+  * AAAI Conference on Artificial Intelligence (AAAI)
+	
