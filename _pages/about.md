@@ -18,6 +18,7 @@ Currently, I am pusuring PhD degree at Nanyang Technology University, supervised
 
 News
 =====
+* Aug. 2025: Received an invitation letter from the University of Oxford for a research visit, with thanks to [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/).
 * July 2025: One paper is accepted by ECAI 2025. 
 * June 2025: One paper is accepted by TSIPN. 
 * Jan. 2025: One paper is accepted by ICLR 2025.
@@ -27,23 +28,5 @@ News
 * July  2024: One paper is accepted by NeurIPS as spotlight. 
 
 
-Current journal roles
-=====
-* Peer Reviewer: 
-   * IEEE Transactions on Signal Processing (IEEE TSP)
-   * Transactions on Machine Learning Research (TMLR)
-   * IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
-   * IEEE Internet of Things Journal (IEEE IoT)
-   * Signal Processing (Elsevier)
 
-
-Current conference roles
-====
-* Peer Reviewer:
-  * Conference on Neural Information Processing Systems (NeurIPS)
-  * International Conference on Learning Representations (ICLR)
-  * International Conference on Machine Learning (ICML)
-  * IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
-  * International Conference on Artificial Intelligence and Statistics (AISTATS)
-  * AAAI Conference on Artificial Intelligence (AAAI)
 	
