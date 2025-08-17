@@ -5,7 +5,7 @@ permalink: /services/
 author_profile: true
 ---
 
-**Current journal roles**
+**Current Journal Roles**
 * Peer Reviewer: 
    * IEEE Transactions on Signal Processing (IEEE TSP)
    * Transactions on Machine Learning Research (TMLR)
@@ -13,7 +13,7 @@ author_profile: true
    * IEEE Internet of Things Journal (IEEE IoT)
    * Signal Processing (Elsevier)
 
-**Current conference roles**
+**Current Conference Roles**
 * Peer Reviewer:
   * Conference on Neural Information Processing Systems (NeurIPS)
   * International Conference on Learning Representations (ICLR)
