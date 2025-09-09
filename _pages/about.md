@@ -18,6 +18,7 @@ Currently, I am pusuring PhD degree at Nanyang Technology University, supervised
 
 News
 =====
+* Sep. 2025: 	One paper is accepted by APSIPA 2025, Singapore.
 * Aug. 2025: Received an invitation letter from the University of Oxford for a research visit, with thanks to [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/).
 * July 2025: One paper is accepted by ECAI 2025. 
 * June 2025: One paper is accepted by TSIPN. 
