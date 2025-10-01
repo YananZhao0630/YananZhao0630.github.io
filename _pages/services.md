@@ -8,6 +8,7 @@ author_profile: true
 **Current Journal Roles**
 * Peer Reviewer: 
    * IEEE Transactions on Signal Processing (IEEE TSP)
+   * IEEE Transactions on Signal and Information Processing over Networks (IEEE TSIPN)
    * Transactions on Machine Learning Research (TMLR)
    * IEEE Journal of Selected Topics in Signal Processing (IEEE JSTSP)
    * IEEE Internet of Things Journal (IEEE IoT)
