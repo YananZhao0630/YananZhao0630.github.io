@@ -18,13 +18,15 @@ Currently, I am pusuring PhD degree at Nanyang Technology University, supervised
 
 News
 =====
+* Jan. 2026: One paper is accepted by TPAMI.
+* Jan. 2026: One paper is accepted by ICASSP 2026, Spain. The **GDSs framework** comes!
 * Sep. 2025: 	One paper is accepted by APSIPA 2025, Singapore.
 * Aug. 2025: Received an invitation letter from the University of Oxford for a research visit, with thanks to [Prof. Xiaowen Dong](https://web.media.mit.edu/~xdong/).
 * July 2025: One paper is accepted by ECAI 2025. 
 * June 2025: One paper is accepted by TSIPN. 
 * Jan. 2025: One paper is accepted by ICLR 2025.
 * Jan. 2025: One paper is accepted by TGRS. Make the **wavelet scattering network (WSN)** great again!
-* Dec. 2024: One paper is accepted by ICASSP 2025.
+* Dec. 2024: One paper is accepted by ICASSP 2025, India. 
 * Dec. 2024: One paper is accepted by AAAI 2025.
 * July  2024: One paper is accepted by NeurIPS as spotlight. 
 
