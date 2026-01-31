@@ -21,7 +21,7 @@ Work Experience
 
 * Sep. 2020 -- Aug. 2022: Research Assistant
   * Penn State University, USA
-  * Supervisor: [Prof. Vishal Monga](IEEE Fellow)(http://signal.ee.psu.edu/faculty.html)
+  * Supervisor: [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html)(IEEE Fellow)
 
 * Sep. 2018 -- June. 2020: Master (honored)
   * Harbin Institute of Technology
