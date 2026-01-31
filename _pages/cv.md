@@ -23,9 +23,8 @@ Work Experience
   * Penn State University, USA
   * Supervisor: [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html)
 
-* Sep. 2018 -- June. 2020: Research Assistant
+* Sep. 2018 -- June. 2020: Master (honored)
   * Harbin Institute of Technology
-  * Supervisor: Prof. Jun Shi
 
 * Sep. 2016 -- Aug. 2017: Lab Manager
   * Robot Lab of School of Information Science and Engineering, Harbin Institute of Technology
@@ -34,8 +33,11 @@ Work Experience
 
 Publications
 ======
-* **Y. Zhao**, Y. Li, H. Zhang, V. Monga, and Y. Eldar, Deep, convergent, unrolled non-blind image deconvolution, _IEEE Transactions on Computational Imaging_, Major revision.
-* F. Ji<sup>1</sup>, **Y. Zhao**<sup>1</sup>(equal contribution),  S. H. Lee, K. Zhao, W. P. Tay, and J. Yang, Graph distributional signals for regularization in graph neural networks, _IEEE Transactions on Signal and Information Processing over Networks_, Under review.
+* **Y. Zhao** et al*, Return to Basics: Very Simple Graph Contrastive Learning via Noise Cancellation Principle, ICML, under review.
+* **Y. Zhao** et al*, Uncertainty Principle for Vertex-Time Graph Signal Processing, _IEEE Transactions on Signal Processing_, under review.
+* **Y. Zhao** et al*, Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks,_IEEE Transactions on Pattern Analysis and Machine Intelligence_, under review.
+* **Y. Zhao**, Y. Li, H. Zhang, V. Monga, and Y. Eldar, Deep, convergent, unrolled non-blind image deconvolution, _IEEE Transactions on Computational Imaging_, 2024.
+* F. Ji<sup>1</sup>, **Y. Zhao**<sup>1</sup>(equal contribution),  S. H. Lee, K. Zhao, W. P. Tay, and J. Yang, Graph distributional signals for regularization in graph neural networks, _IEEE Transactions on Signal and Information Processing over Networks_,.
 * Q. Kang, K. Zhao, Y. Song, Y. Xie, **Y. Zhao**, S. Wang, R. She, and W. P. Tay, Coupling graph neural networks with fractional order continuous dynamics: A robustness study, in _Proc. AAAI Conference on Artificial Intelligence_, Vancouver, Canada, Feb. 2024
 * Q. Kang<sup>1</sup>, **Y. Zhao**<sup>1</sup>, K. Zhao<sup>1</sup>(equal contribution), X. Li, Q. Ding, W. P. Tay, and S. Wang, Advancing graph neural networks through joint time-space dynamics, NeuPIS workshop, 2023. [[pdf]](https://openreview.net/forum?id=us4qvNWeGB)
 * Q. Kang, K. Zhao, Y. Song, Y. Xie, **Y. Zhao**, S. Wang, R. She, and W. P. Tay, Coupling graph neural networks with non-integer order dynamics: A robustness study, NeuPIS workshop, 2023. [[pdf]](https://openreview.net/forum?id=lSa6SEEqTL)
