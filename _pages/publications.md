@@ -8,6 +8,7 @@ author_profile: true
 **Journal**
 * **Y. Zhao** et al, Uncertainty Principle for Vertex-Time Graph Signal Processing, _IEEE Transactions on Signal Processing_, under review.
 * **Y. Zhao** et al, Adaptive Multi-view Graph Contrastive Learning via Fractional-order Neural Diffusion Networks,_IEEE Transactions on Pattern Analysis and Machine Intelligence_, under review.
+* F. Ji<sup>1</sup>, **Y. Zhao**<sup>1</sup>(equal contribution) et all, Graph distributional signals for regularization in graph neural networks, _IEEE Transactions on Signal and Information Processing over Networks_,. 2025.
 * **Y. Zhao**, Y. Li, H. Zhang, V. Monga, and Y. Eldar, Deep, convergent, unrolled half-quadratic splitting for image deconvolution, _IEEE Transactions on Computational Imaging_, vol. 10, pp. 574-588, 2024. [[pdf]](https://ieeexplore-ieee-org.remotexs.ntu.edu.sg/document/10478818)
 * G. Chen, **Y. Zhao**, and K. Mouthaan, Joint spatial-frequency scattering network for unsupervised SAR image change detection,_IEEE Geoscience and Remote Sensing Letters_, 2025.
 * G. Chen<sup>1</sup>, **Y. Zhao**<sup>1</sup>(equal contribution),  Y. Wang, and K. Yap, SSN: stockwell scattering network for SAR image change detection, _IEEE Geoscience and Remote Sensing Letters_, vol. 20, 2023. [[pdf]](https://ieeexplore.ieee.org/document/10016644)
