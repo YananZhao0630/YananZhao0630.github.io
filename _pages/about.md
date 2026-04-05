@@ -21,10 +21,11 @@ News
 
 <div style="max-height: 220px; overflow-y: auto; padding-right: 8px;">
 <ul>
-  <li>[Jan. 2026]: One paper is accepted by TPAMI.</li>
-  <li>[Jan. 2026]: One paper is accepted by ICASSP 2026, Spain. The <strong>GDSs framework</strong> comes!</li>
-  <li>[Sep. 2025]: One paper is accepted by APSIPA 2025, Singapore.</li>
-  <li>[Aug. 2025]: Received an invitation letter from the University of Oxford for a research visit, with thanks to <a href="https://web.media.mit.edu/~xdong/">Prof. Xiaowen Dong</a>.</li>
+  <li>Jan. 2026: Start my academic visit at Oxford. Happy to chat!</li>
+  <li>Jan. 2026: One paper is accepted by TPAMI.</li>
+  <li>Jan. 2026: One paper is accepted by ICASSP 2026, Spain. The <strong>GDSs framework</strong> comes!</li>
+  <li>Sep. 2025: One paper is accepted by APSIPA 2025, Singapore.</li>
+  <li>Aug. 2025: Received an invitation letter from the University of Oxford for a research visit, with thanks to <a href="https://web.media.mit.edu/~xdong/">Prof. Xiaowen Dong</a>.</li>
   <li>July 2025: One paper is accepted by ECAI 2025.</li>
   <li>June 2025: One paper is accepted by TSIPN.</li>
   <li>Jan. 2025: One paper is accepted by ICLR 2025.</li>
