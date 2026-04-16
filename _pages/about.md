@@ -21,7 +21,7 @@ News
 
 <div style="max-height: 220px; overflow-y: auto; padding-right: 8px;">
 <ul>
-  <li>April 2026: Receive IEEE SPS Certified Chapter Student Travel Grant.
+  <li>April 2026: Receive IEEE SPS Certified Chapter Student Travel Grant for ICASSP 2026.
   <li>Jan. 2026: Start my academic visit at Oxford until July. Happy to chat!</li>
   <li>Jan. 2026: One paper is accepted by TPAMI.</li>
   <li>Jan. 2026: One paper is accepted by ICASSP 2026, Spain. The <strong>GDSs framework</strong> comes!</li>
