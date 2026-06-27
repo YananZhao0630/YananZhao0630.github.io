@@ -22,8 +22,10 @@ News
 <div style="max-height: 220px; overflow-y: auto; padding-right: 8px;">
 <ul>
 <li>June 2026: Invited talk at <a href="https://www.nuaa.edu.cn/">Nanhang University</a>.
-  <img src="images/talk.png" alt="Nanhang talk"
-       style="max-width:120px; border-radius:6px; vertical-align:middle; margin-left:6px;">
+  <a href="/images/talk.png" target="_blank">
+    <img src="/images/talk.png" alt="Nanhang talk"
+         style="max-width:120px; border-radius:6px; vertical-align:middle; margin-left:6px;">
+  </a>
 </li>
   <li>April 2026: Receive IEEE SPS Certified Chapter Student Travel Grant for ICASSP 2026.</li>
   <li>Jan. 2026: Start my academic visit at University of Oxford until July. Happy to chat!</li>
