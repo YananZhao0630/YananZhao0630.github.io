@@ -21,7 +21,7 @@ News
 
 <div style="max-height: 220px; overflow-y: auto; padding-right: 8px;">
 <ul>
-<li>June 2026: Invited talk at <a href="https://www.nuaa.edu.cn/">Nanhang University</a>.
+<li>June 2026: Invited talk at Nanhang University.
   [<a href="/images/talk.png" target="_blank">poster</a>]
 </li>
   <li>April 2026: Receive IEEE SPS Certified Chapter Student Travel Grant for ICASSP 2026.</li>
